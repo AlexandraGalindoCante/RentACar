@@ -26,6 +26,26 @@ namespace RentACar
               float.Parse(txtCilindraje.Text), txtColor.Text, txtServicio.Text, txtClaseVeh.Text, 
               txtCarroceria.Text, txtCombustible.Text,txtCapacidad.Text, txtMotor.Text,txtVin.Text,
               txtSerie.Text, txtChasis.Text, txtPropietario.Text, txtDocumento.Text, float.Parse(txtPrecio.Text));
+
+            lblMsj.Visible = true;
+            txtPlaca.Text="";
+            txtMarca.Text = "";
+            txtLinea.Text = "";
+            txtModelo.Text = "";
+            txtCilindraje.Text = "";
+            txtColor.Text = "";
+            txtServicio.Text = "";
+            txtClaseVeh.Text = "";
+            txtCarroceria.Text = "";
+            txtCombustible.Text = "";
+            txtCapacidad.Text = "";
+            txtMotor.Text = "";
+            txtVin.Text = "";
+            txtSerie.Text = "";
+            txtChasis.Text = "";
+            txtPropietario.Text = "";
+            txtDocumento.Text = "";
+
         }
     }
 }
