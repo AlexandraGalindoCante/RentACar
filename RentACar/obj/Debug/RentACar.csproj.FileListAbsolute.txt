@@ -31,3 +31,36 @@ C:\Users\Usuario\Documents\Visual Studio 2015\RentACar\RentACar\bin\Microsoft.Ap
 C:\Users\Usuario\Documents\Visual Studio 2015\RentACar\RentACar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\Usuario\Documents\Visual Studio 2015\RentACar\RentACar\obj\Debug\RentACar.dll
 C:\Users\Usuario\Documents\Visual Studio 2015\RentACar\RentACar\obj\Debug\RentACar.pdb
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\ApplicationInsights.config
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\roslyn\csc.exe
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\roslyn\vbc.exe
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\roslyn\VBCSCompiler.exe
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\RentACar.dll.config
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\RentACar.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\RentACar.pdb
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.AI.Web.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.AI.Web.xml
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\obj\Debug\RentACar.csprojResolveAssemblyReference.cache
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\obj\Debug\RentACar.dll
+C:\Users\Christian Andrés\Documents\Visual Studio 2015\Projects\RentACar\RentACar\obj\Debug\RentACar.pdb
